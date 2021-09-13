@@ -1,0 +1,4 @@
+Primeiro instala o pacotes depois as tipajens
+
+yarn add install styled-components
+yarn add install -D @types/styled-components

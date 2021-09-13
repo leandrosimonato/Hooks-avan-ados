@@ -1,0 +1,14 @@
+.Card {
+  background: rgba(0,0,0,.25);
+    border-radius: 8px;
+    padding: 16%;
+}
+
+.Card.left {
+  text-align: left;
+}
+
+
+.Card.right {
+  text-align: right;
+}
