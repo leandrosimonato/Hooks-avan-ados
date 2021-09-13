@@ -31,12 +31,15 @@ function App() {
 
   return (
     <div className="App">
+      <p>
+        Gerenciamento de estado complexo com useReducer.
+      </p>
       <div style={{ backgroundColor: 'peachpuff' }}>
         { state.count }
       </div>
       <button
         onClick={() => {
-          dispatch({ type: 'INCREMENT', payload: 2 })
+          dispatch({ type: 'INCREMENT', payload: 1 })
         }}
       >
         acrescer
