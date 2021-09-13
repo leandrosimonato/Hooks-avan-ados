@@ -1,4 +1,6 @@
 Primeiro instala o pacotes depois as tipajens
 
+npx create-react-app <nomeDoProjeto> --template typescript
+
 yarn add install styled-components
 yarn add install -D @types/styled-components
